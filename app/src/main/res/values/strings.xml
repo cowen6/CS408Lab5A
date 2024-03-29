@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator Remix</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="calculate">Calculate</string>
+    <string name="number_of_people">Number of People:</string>
+    <string name="tip_percentage">Tip Percentage:</string>
+    <string name="total_per_person">Total per Person:</string>
+    <string name="enter_bill">Enter bill total</string>
+    <string name="enter_people">Enter number of people</string>
+    <string name="enter_tip">Enter tip percent</string>
+    <string name="celsius">Celsius:</string>
+    <string name="convert">Convert</string>
+    <string name="fahrenheit">Fahrenheit:</string>
+    <string name="temp_in_celsius">Temp. in Celsius</string>
+    <string name="temp_in_fahrenheit">Temp. in Fahrenheit</string>
+    <string name="kilometers">Kilometers:</string>
+    <string name="distance_in_kilometers">Distance in Kilometers</string>
+    <string name="miles">Miles:</string>
+    <string name="distance_in_miles">Distance in Miles</string>
+    <string name="fragment_id">#</string>
+</resources>
